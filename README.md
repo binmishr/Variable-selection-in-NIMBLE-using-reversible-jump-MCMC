@@ -1,0 +1,1 @@
+# Variable-selection-in-NIMBLE-using-reversible-jump-MCMC
